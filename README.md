@@ -1,14 +1,22 @@
 ## Q + A
 1. How do we assign a value to a variable?
+    We set the variable equal to the desired value. ex. let name = "kiara"
 2. How do we change the value of a variable?
+    We call the variable and set it equal to something else, except if we define it with const which is harder to change. ex. name = "ariel"
 3. How do we assign an existing variable to a new variable?
+    We set the new variable equal to the old variable and add whatever new conditions we want to add to the old variable to make it equal to the new variable. ex. let newVar = oldVar + 5
 4. Remind me, what are declare, assign, and define?
+    Declare is when you "announce" the variable using let or const.
+    Assign is when you give that variable a value using =.
+
 
 ### Research 
 
 5. What is pseudocoding and why should you do it?
+    Pseudocoding is when you write what you want the code to do in a similar way to how you want the code to be written but it does not need to be in the strict syntax that you have to have for the program to actually run. It lets you plan out the logical steps of the code that you want to write so that you have to spend less time trying to figure out how you're going to make the code work while you're writing it.
 
 6. What percentage of time should be spent thinking about how you're going to solve a problem vs actually typing in code to solve it?
+    It depends on the problem, the dificulty of solving it, and the amount of research and checking it takes to solve it. Most sources that I found said around 80-90% of the time thinking about ways to solve the problem and 10-20% typing the code to solve it. One interesting point of view I found on Quora actually broke it down to this, "I would say it 70% thinking and 20% writing code and 10% debugging."
 
 ## Strings
 
@@ -21,6 +29,7 @@
 - Change the value of secondVariableto any string.
 
 What is the value of firstVariable?
+Hello World
 
 - Create a variable called yourName and set it equal to your name as a string. Then, write an expression that takes the string `"Hello, my name is "` and the variable yourName. 
 
